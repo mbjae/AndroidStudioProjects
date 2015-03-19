@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidDatabaseExample2Activity!</string>
+    <string name="app_name">AndroidDatabaseExample2</string>
+    <string name="label_cust_name">Name:</string>
+    <string name="label_phone">Phone:</string>
+    
+</resources>

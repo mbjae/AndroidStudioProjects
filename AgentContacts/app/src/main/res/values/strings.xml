@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgentContacts</string>
+
+    <string name="agentsTitle">List of Agents</string>
+    <string name="agentID">Agent ID</string>
+    <string name="agentName">Agent Name</string>
+    <string name="agentPhone">Agent Phone</string>
+    <string name="agentEmail">Agent Email</string>
+    <string name="action_settings">Settings</string>
+</resources>

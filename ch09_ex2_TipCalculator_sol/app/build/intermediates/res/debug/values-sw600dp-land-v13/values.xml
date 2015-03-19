@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/680402/AndroidStudioProjects/ch09_ex2_TipCalculator_sol/app/src/main/res/values-sw600dp-land/layout.xml -->
+    <eat-comment/>
+    <item name="activity_main" type="layout">
+        @layout/activity_main_twopane_land
+    </item>
+</resources>

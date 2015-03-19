@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ButtonExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_text">Click Here!</string>
+    <string name="click_the_button">Click the Button</string>
+    <string name="no_clicks">No Clicks Yet!</string>
+    <color name="red">#ff0000</color>
+
+</resources>

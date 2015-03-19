@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Invoice</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lblSubtotal">Subtotal</string>
+    <string name="lblDPercent">Discount Percent</string>
+    <string name="lblDAmount">Discount Amount</string>
+    <string name="lblTotal">Total</string>
+    <string name="lblDAmountValue">$ 0.00</string>
+    <string name="lblDPercentValue">10%</string>
+    <string name="lblTotalValue">$ 0.00</string>
+</resources>

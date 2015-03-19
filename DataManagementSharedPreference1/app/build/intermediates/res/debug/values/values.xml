@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/680402/AndroidStudioProjects/DataManagementSharedPreference1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DataManagementSharedPreference</string>
+    <string name="highscore_string">"HighScore: "</string>
+    <string name="play_string">Play</string>
+    <string name="reset_string">Reset</string>
+</resources>
